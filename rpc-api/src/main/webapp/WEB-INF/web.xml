@@ -7,13 +7,13 @@
 	<display-name>APT 接口服务</display-name>
 
 	<servlet>
-		<servlet-name>apt-api</servlet-name>
+		<servlet-name>rpc-api</servlet-name>
 		<servlet-class>zx.soft.apt.api.core.ServletAPT</servlet-class>
 	</servlet>
 
 	<servlet-mapping>
-		<servlet-name>apt-api</servlet-name>
-		<url-pattern>/</url-pattern>
+		<servlet-name>rpc-api</servlet-name>
+		<url-pattern>/data</url-pattern>
 	</servlet-mapping>
 
 </web-app>
