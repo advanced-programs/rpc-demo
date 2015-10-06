@@ -41,3 +41,9 @@ $ curl -X GET http://192.168.1.24:18080/apt-api/?reset=true
 $ curl -X GET http://192.168.5.201:18080/apt-api/?reset=true
 $ curl -X GET http://192.168.5.202:18080/apt-api/?reset=true
 ```
+
+### Web接口
+
+```
+http://localhost:8080/apt-api/data/pages/line.html
+```
