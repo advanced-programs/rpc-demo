@@ -27,7 +27,7 @@ public class BusinessHandler extends ChannelHandlerAdapter {
 
 	private static final Properties PROPS = ConfigUtil.getProps("conf.properties");
 
-	private static final int THREADS_NUM = 32;
+	private static final int THREADS_NUM = 64;
 
 	static {
 		// 使用线程池执行

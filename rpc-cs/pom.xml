@@ -96,6 +96,7 @@
 						<exclude>conf.properties</exclude>
 						<exclude>redis.properties</exclude>
 						<exclude>rpc.properties</exclude>
+						<exclude>data</exclude>
 					</excludes>
 				</configuration>
 			</plugin>

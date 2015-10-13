@@ -16,6 +16,7 @@
 				<include>conf.properties</include>
 				<include>redis.properties</include>
 				<include>rpc.properties</include>
+				<include>data</include>
 			</includes>
 			<outputDirectory>/conf</outputDirectory>
 			<filtered>true</filtered>

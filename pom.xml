@@ -16,7 +16,6 @@
 	<modules>
 		<module>rpc-cs</module>
 		<module>rpc-api</module>
-		<module>rpc-web</module>
 	</modules>
 
 	<build>
